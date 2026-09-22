@@ -45,7 +45,7 @@
 ## 安装示例
 
 ```powershell
-git clone https://github.com/Sierra01-ops/1.git "$env:USERPROFILE\.codex\skills\classics-decision-analysis"
+git clone https://github.com/Sierra01-ops/1.git "$env:USERPROFILE\.agents\skills\classics-decision-analysis"
 ```
 
 重新打开 Codex 后，可在需要历史类比与出处审计的决策讨论中调用该技能。
